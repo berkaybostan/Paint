@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1478528754 source:c:\users\berkay\desktop\codeblocks\paint\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1480336383 source:c:\users\berkay\desktop\paint\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
